@@ -1,3 +1,5 @@
+# This script cleans up data from the excel file
+
 library(dplyr)
 library(purrr)
 library(readxl)
